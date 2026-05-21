@@ -11,19 +11,16 @@
 ## 📸 Screenshots
 
 ### Login Page
-> 📷 *Add your screenshot here — drag and drop into GitHub*
 
-![Login Page](screenshots/login.png)
+![Login Page](revenue/screenshots/login.png)
 
 ### Dashboard
-> 📷 *Add your screenshot here*
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](revenue/screenshots/dashboard.png)
 
 ### AI Analysis Results
-> 📷 *Add your screenshot here*
 
-![Analysis](screenshots/analysis.png)
+![Analysis](revenue/screenshots/analysis.png)
 
 ---
 
