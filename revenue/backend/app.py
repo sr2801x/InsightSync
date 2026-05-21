@@ -259,7 +259,8 @@ load_dotenv()
 
 app = Flask(__name__)
 CORS(app, origins=[ "http://localhost:3000",
-    "https://insight-sync-five.vercel.app"], supports_credentials=True)
+    "https://insight-sync-five.vercel.app",
+    "https://insight-sync-oln9zu7kr-sneha-rathores-projects.vercel.app"], supports_credentials=True)
 
 def analyze_with_openrouter(query, data, user_email):
     """Enhanced AI analysis using OpenRouter Mixtral-8x7B"""
