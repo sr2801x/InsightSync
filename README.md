@@ -10,17 +10,18 @@
 
 ## 📸 Screenshots
 
+
 ### Login Page
 
-![Login Page](revenue/screenshots/login.png)
+<img src="revenue/screenshots/login.png" width="300"/>
 
 ### Dashboard
 
-![Dashboard](revenue/screenshots/dashboard.png)
+<img src="revenue/screenshots/dashboard.png" width="300"/>
 
 ### AI Analysis Results
 
-![Analysis](revenue/screenshots/analysis.png)
+<img src="revenue/screenshots/analysis.png" width="300"/>
 
 ---
 
