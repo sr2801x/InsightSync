@@ -21,7 +21,7 @@ const QueryInterface = ({ data, onInsights, loading, setLoading, user }) => {
     try {
       console.log('Sending query:', queryText);
       
-      const response = await fetch('http://localhost:5000/api/analyze', {
+      const response = await fetch(`${process.env.REACT_APP_API_URL}/api/analyze`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -55,7 +55,7 @@ const QueryInterface = ({ data, onInsights, loading, setLoading, user }) => {
 
   const saveQueryToHistory = async (query, result) => {
     try {
-      await fetch('http://localhost:5000/api/save-query', {
+      await fetch(`${process.env.REACT_APP_API_URL}/api/save-query`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
