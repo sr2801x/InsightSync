@@ -17,11 +17,11 @@
 
 ### Dashboard
 
-<img src="revenue/screenshots/dashboard.png" width="300"/>
+<img src="revenue/screenshots/dashboard.png" width="800"/>
 
 ### AI Analysis Results
 
-<img src="revenue/screenshots/analysis.png" width="300"/>
+<img src="revenue/screenshots/analysis.png" width="800"/>
 
 ---
 
